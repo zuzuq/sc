@@ -143,8 +143,8 @@ service nginx restart
 cd
 mkdir /home/vps
 mkdir /home/vps/public_html
-wget -O /home/vps/public_html/index.html "https://raw.githubusercontent.com/myridwan/VVIP/ipuk/ssh/multiport"
-wget -O /home/vps/public_html/.htaccess "https://raw.githubusercontent.com/myridwan/VVIP/ipuk/ssh/.htaccess"
+wget -O /home/vps/public_html/index.html "https://raw.githubusercontent.com/zuzuq/sc/main/ssh/multiport"
+wget -O /home/vps/public_html/.htaccess "https://raw.githubusercontent.com/zuzuq/sc/main/ssh/.htaccess"
 mkdir /home/vps/public_html/ss-ws
 mkdir /home/vps/public_html/clash-ws
 # install badvpn
