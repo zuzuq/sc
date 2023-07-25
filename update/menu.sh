@@ -190,7 +190,8 @@ echo -e "  ${PINK}[05]${NC} • ${RED}[${NC}${PINK} SSWS MENU ${NC}${RED}]${NC} 
 echo -e "  ${PINK}[06]${NC} • ${RED}[${NC}${PINK} UPDATE MENU${NC}${RED}]${NC}           ${PINK}[13]${NC} • ${RED}[${NC}${PINK} AUTO REBOOT ${NC}${RED}]${NC}     "
 echo -e "  ${PINK}[07]${NC} • ${RED}[${NC}${PINK} INSTALL UDP ${NC}${RED}]${NC}          ${PINK}[14]${NC} • ${RED}[${NC}${PINK} MENU BOT ${NC}${RED}]${NC} "
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
-echo -e "              << SCRIPT MULTIPORT TUNNELING >>                    \E[0m" | lolcatecho -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
+echo -e "              << PERAWAN HAMPIR PUNAH >>                    \E[0m" | lolcat
+echo -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
 echo -e ""
 echo -ne " Select menu : "; read opt
 case $opt in
